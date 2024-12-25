@@ -1,0 +1,4 @@
+npm i --save-dev @types/express
+npx tsc -- init
+set root dir"./src" and out dir to"./dist"
+npx tsc --build  
